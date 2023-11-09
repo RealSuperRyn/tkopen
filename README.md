@@ -12,3 +12,8 @@ Example config:
 /home/guest/scripts
 
 ```
+# Future plans:
+-Add scrolling
+-Allow users to add icons to folders in the config
+-Refine the way files are opened
+-Stop using the "pack" function and instead use "grid" (see main.py for context)
